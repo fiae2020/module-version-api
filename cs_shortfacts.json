@@ -1,5 +1,9 @@
 {
     "version": "1.0.0",
-    "module": "CS-Cart Shortfacts Add-On",
-    "description": "CS-Cart Shortfacts Add-On for Products"
+    "release_date": "2024-01-15",
+    "download_url": "https://github.com/fiae2020/module-version-api/releases/latest",
+    "changelog": [
+        "Initial release",
+        "Added product shortfacts functionality"
+    ]
 }
